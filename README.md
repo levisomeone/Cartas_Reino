@@ -17,7 +17,7 @@
 ---
 
 > [!NOTE]
-> **Nome provisório:** *Chronicles of the Abyss* é um título de apresentação para o README, não um nome oficial previamente decidido para o jogo. Você pode substituí-lo quando definir o nome definitivo.
+> **Nome provisório:** *Chronicles of the Abyss* é um título de apresentação para o README, não um nome oficial previamente decidido para o jogo.
 
 ## 🌑 Sobre o projeto
 
