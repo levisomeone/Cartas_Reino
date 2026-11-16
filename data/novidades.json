@@ -1,0 +1,65 @@
+[
+  {
+    "id": "u-ia",
+    "tipo": "update",
+    "titulo": "Agora dá para jogar contra o computador",
+    "resumo": "O Jogador 2 pode ser a IA: ela troca cartas, joga criaturas, feitiços, itens e terrenos.",
+    "corpo": "Em Jogar, escolha \"Computador\" no Jogador 2. A IA segue as mesmas regras que você e funciona com qualquer carta nova, usando um comportamento padrão para efeitos que ela ainda não conhece.",
+    "data": "2026-11-01",
+    "carta": "lich_reanimador"
+  },
+  {
+    "id": "u-rework",
+    "tipo": "update",
+    "titulo": "Cartas reformuladas e novas",
+    "resumo": "Fada das Ilusões, Monstro de Videira, Espectro do Vazio e a nova Margarida Curativa.",
+    "corpo": "Fada das Ilusões: enquanto estiver em campo, suas criaturas custam 1 de surgimento a menos.\nMonstro de Videira: agora custa 7 e tem 5/5.\nEspectro do Vazio (nova): revive um espectro do cemitério e causa dano ao herói inimigo.\nMargarida Curativa (nova): cura 2 de vida do seu herói ao entrar.\nMorcegos e Parede Centenária ganharam arte nova.",
+    "data": "2026-11-01",
+    "carta": "espectro_do_vazio"
+  },
+  {
+    "id": "u-arena",
+    "tipo": "update",
+    "titulo": "A arena de batalha",
+    "resumo": "Moeda, mulligan, as 5 fases da rodada, animações de golpe, dano e cura.",
+    "corpo": "Duelos completos em 5 colunas, com frente e retaguarda, prêmios a cada 8 de dano e reciclagem do cemitério. Dois jogadores na mesma tela usam uma cortina entre as jogadas para esconder a mão.",
+    "data": "2026-10-30",
+    "carta": "dragao_do_fim"
+  },
+  {
+    "id": "c-bemvindo",
+    "tipo": "comunidade",
+    "titulo": "Espaço da comunidade",
+    "resumo": "Aqui vão aparecer avisos de torneios, eventos e links da comunidade.",
+    "corpo": "Este painel lê o arquivo data/novidades.json. Para publicar um aviso, adicione um item com tipo \"comunidade\", um título, um resumo e o texto completo. Mais tarde, quando o jogo for online, ele passa a vir do servidor.",
+    "data": "2026-11-01",
+    "carta": "vampiro_soberano"
+  },
+  {
+    "id": "a-dicas",
+    "tipo": "aviso",
+    "titulo": "Monte seu primeiro deck",
+    "resumo": "São 40 cartas de batalha e 4 de prêmio, no máximo 4 cópias de cada.",
+    "corpo": "Abra Coleção e decks, pesquise as cartas e clique em + Deck. Sem tempo? O botão Sortear monta um deck válido para testar rápido.",
+    "data": "2026-11-01",
+    "carta": "monstro_de_videira"
+  },
+  {
+    "id": "u-cartas90",
+    "tipo": "update",
+    "titulo": "Senhor das Tumbas e Cemitério Ancestral chegam ao jogo",
+    "resumo": "As duas últimas cartas do conjunto base entram na coleção: um zumbi lendário que enfraquece o campo e um terreno que gera surgimento.",
+    "corpo": "Senhor das Tumbas (Zumbi, lendário, custo 9) fragiliza as criaturas inimigas no início de cada batalha e pode atacar qualquer alvo. Cemitério Ancestral (terreno, custo 3) rende surgimento sempre que uma criatura sua entra na coluna. A Mandrágora agora também causa dano contínuo ao fim de cada batalha.",
+    "data": "2026-11-03",
+    "carta": "senhor_das_tumbas"
+  },
+  {
+    "id": "u-arena2",
+    "tipo": "update",
+    "titulo": "Arena mais viva: arrastar cartas, sons e relógio de 30 segundos",
+    "resumo": "Arraste cartas da mão até a coluna, veja o computador jogar com animação e acompanhe a vida cair junto com os golpes.",
+    "corpo": "Cartas podem ser arrastadas da mão para a posição desejada. Cada fase de Campo e Preparação tem 30 segundos; ao acabar, a vez passa sozinha. Há duas trilhas de batalha sorteadas a cada partida e novos efeitos sonoros para golpes, feitiços e terrenos.",
+    "data": "2026-11-03",
+    "carta": "cemiterio_ancestral"
+  }
+]
